@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: e78726af6d5ebc0469495aeb986af2eb
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base-eyelush_mat
+    second: {fileID: 2100000, guid: 74098d73860863841b698eda8e2be0e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base-face_mat
+    second: {fileID: 2100000, guid: 7b8d0198ff2374446b867287f529d022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 8fecbf4a4f204c04881ef7bc0a4f9c09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Hoodies_03
+    second: {fileID: 2100000, guid: 568dc34a013192f4a925e3c05efaeeae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_P002_Hair_01_d
+    second: {fileID: 2100000, guid: f65ea1bf0de227047964503428cd4816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_P002_Hair_02_d
+    second: {fileID: 2100000, guid: 3da268fe0b4e9d446ba411aed5c03e2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_P002_Hair_03a_d
+    second: {fileID: 2100000, guid: 69aba18a53b1dfa4ba811b00a81a3d50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_P002_Hair_04_d
+    second: {fileID: 2100000, guid: 7024420ee2ad7dd4cba8b48044d97c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_P002_Hair_05a_d
+    second: {fileID: 2100000, guid: 48f126daa77e1c847861bc51373ad56e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_P002_Hair_06a_d
+    second: {fileID: 2100000, guid: 95e441ae5d47a07479d00f80f34b1bd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_P002_Hair_07_d
+    second: {fileID: 2100000, guid: ae53450cc8db8bb48a96634a787f3b0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_P002_Hair_08b_d
+    second: {fileID: 2100000, guid: f4b9793bc9d42ee479279a46a8aaef9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_05_d
+    second: {fileID: 2100000, guid: d42b7630e9e705945ac78b39b230ccb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_06_d
+    second: {fileID: 2100000, guid: b64e8bde390a0594690b148fbd39db18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_08_d
+    second: {fileID: 2100000, guid: ec0976d78575f41449ec1eea72c0d0fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_10_d
+    second: {fileID: 2100000, guid: f4a35164416a16943acd50a1610c426f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_11_d
+    second: {fileID: 2100000, guid: 49c33ae6e3b439141ae2cacb59cdcf70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_12_d
+    second: {fileID: 2100000, guid: aafac4548ce6cfb46bbf88d56b29080e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_13_d
+    second: {fileID: 2100000, guid: be6319d8adaa31c41805009b3d80400b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_14a_d
+    second: {fileID: 2100000, guid: 7d328dbe0b2a37140aa86da982d39fd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_16_d
+    second: {fileID: 2100000, guid: 954567d5db5ec4343b745d6b5e0e54d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_17_d
+    second: {fileID: 2100000, guid: 69de641ff4cdae543951ef478525a456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shoes_18_d
+    second: {fileID: 2100000, guid: bf8747cc51a45fa4c937501e5546393f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shorts_01_b
+    second: {fileID: 2100000, guid: 78bc28b6ca285774d989d552b08a70dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shorts_04
+    second: {fileID: 2100000, guid: 772f00b2496f5f847b645f36b4589583, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Shorts_06
+    second: {fileID: 2100000, guid: 97679a1a22e8ac44e9c996a783e25929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Skirt_03_a
+    second: {fileID: 2100000, guid: 2355b7ef7abd6aa4cb4b3c88a92493af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Skirt_07
+    second: {fileID: 2100000, guid: 213172faae102c74c96288ba7da0b9eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Skirt_09
+    second: {fileID: 2100000, guid: 8194acccbfe71a0419dd296f891d112d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_T_shirt_05
+    second: {fileID: 2100000, guid: 48c190c4dd3f986469a9b086e0808eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt1c
+    second: {fileID: 2100000, guid: 6a32407474bee59449ae93d7ededb316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt2c
+    second: {fileID: 2100000, guid: 968d833ebf8fac649943f10e28f6c253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoe1b
+    second: {fileID: 2100000, guid: 725ee806fece8824cabb86aab6c16829, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoe2a
+    second: {fileID: 2100000, guid: e55929d75780bec4db667be88337b56b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Short1a
+    second: {fileID: 2100000, guid: fb557111969cff84e99fccfc99e856c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Short2d 1
+    second: {fileID: 2100000, guid: 8c3383559e425634c86e9b6ad1e27f88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1.001
+    second: {fileID: 2100000, guid: 2343c56ca8d270b4c97a03a8c0d1f0fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_mat
+    second: {fileID: 2100000, guid: b8f0db12fdd065b419bb40a753bf4abe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_mat.004
+    second: {fileID: 2100000, guid: 3a75255b958fa4d4a8e47ced654bd54d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: ca6fe21f8636ea740adeef0999cfc2e5, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
